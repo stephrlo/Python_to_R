@@ -1,13 +1,14 @@
 # Python_to_R
 
 **Summary** 
-Companion R code for article: The Starter Guide For Transitioning Your Python Projects To R
+
+This repository includes companion R code for article: The Starter Guide For Transitioning Your Python Projects To R, as well as links to the dataset.
 
 **Contents** 
 
 1. **iZEV_Walkthrough**
    - iZEV_Walkthrough.md - creation of synthetic customer and email databases 
-   - dataset - refer to the original dataset from the Government of Canada website [here](https://open.canada.ca/data/en/dataset/42986a95-be23-436e-af15-7c6bf292a2e1). The download name should be "Statistics on the Incentives for Zero-Emission Vehicles (iZEV) Program CSV" (English Version). 
+   - Dataset - refer to the original dataset from the Government of Canada website [here](https://open.canada.ca/data/en/dataset/42986a95-be23-436e-af15-7c6bf292a2e1). The download name should be "Statistics on the Incentives for Zero-Emission Vehicles (iZEV) Program CSV" (English Version). 
 
 
 **Software**
