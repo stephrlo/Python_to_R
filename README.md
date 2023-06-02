@@ -2,7 +2,7 @@
 
 **Summary** 
 
-This repository includes companion R code for article: The Starter Guide For Transitioning Your Python Projects To R, as well as links to the dataset.
+This repository includes companion R code for Towards Data Science article: [The Starter Guide For Transitioning Your Python Projects To R](https://medium.com/p/8de4122b04ad#e425-627dac634937), as well as links to the dataset.
 
 **Contents** 
 
